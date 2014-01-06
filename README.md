@@ -1,4 +1,5 @@
-biagiothejewellers
+Biagio the Jewellers
 ==================
 
-The Repository for Biagio the Jewellers (Lemonstand)
+Lemonstand Site
+
